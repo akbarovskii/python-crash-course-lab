@@ -8,9 +8,9 @@ Code solutions, exercises, and practice scripts from Eric Matthes' "Python Crash
 
 ### 🔹 01-basics
 <p align="center">
-  <img src="01-basics/image1.png" width="30%" alt="Basics 1">
-  <img src="01-basics/image2.png" width="30%" alt="Basics 2">
-  <img src="01-basics/image3.png" width="30%" alt="Basics 3">
+  <img src="python-crash-course-lab/Photos/full_name.png" width="30%" alt="Basics 1">
+  <img src="python-crash-course-lab/Photos/remove.png" width="30%" alt="Basics 2">
+  <img src="python-crash-course-lab/Photos/favorite_cars_string.png" width="30%" alt="Basics 3">
 </p>
 
 ### 🔹 02-logic-and-loops
