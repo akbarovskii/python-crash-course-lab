@@ -22,9 +22,9 @@ Code solutions, exercises, and practice scripts from Eric Matthes' "Python Crash
 
 ### 🔹 03-functions-and-classes
 <p align="center">
-  <img src="03-functions-and-classes/image1.png" width="30%" alt="Functions & Classes 1">
-  <img src="03-functions-and-classes/image2.png" width="30%" alt="Functions & Classes 2">
-  <img src="03-functions-and-classes/image3.png" width="30%" alt="Functions & Classes 3">
+  <img src="python-crash-course-lab/Photos/dog.png" width="30%" alt="Functions & Classes 1">
+  <img src="python-crash-course-lab/Photos/get_formatted_name.png" width="30%" alt="Functions & Classes 2">
+  <img src="python-crash-course-lab/Photos/formatted_name.png" width="30%" alt="Functions & Classes 3">
 </p>
 
 ### 🔹 04-files-and-exceptions
