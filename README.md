@@ -15,9 +15,9 @@ Code solutions, exercises, and practice scripts from Eric Matthes' "Python Crash
 
 ### 🔹 02-logic-and-loops
 <p align="center">
-  <img src="02-logic-and-loops/image1.png" width="30%" alt="Logic & Loops 1">
-  <img src="02-logic-and-loops/image2.png" width="30%" alt="Logic & Loops 2">
-  <img src="02-logic-and-loops/image3.png" width="30%" alt="Logic & Loops 3">
+  <img src="python-crash-course-lab/Photos/alien_position.png" width="30%" alt="Logic & Loops 1">
+  <img src="python-crash-course-lab/Photos/aliens_list.png" width="30%" alt="Logic & Loops 2">
+  <img src="python-crash-course-lab/Photos/confirmed_users.png" width="30%" alt="Logic & Loops 3">
 </p>
 
 ### 🔹 03-functions-and-classes
