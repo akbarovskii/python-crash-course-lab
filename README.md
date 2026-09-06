@@ -29,14 +29,14 @@ Code solutions, exercises, and practice scripts from Eric Matthes' "Python Crash
 
 ### 🔹 04-files-and-exceptions
 <p align="center">
-  <img src="04-files-and-exceptions/image1.png" width="30%" alt="Files & Exceptions 1">
-  <img src="04-files-and-exceptions/image2.png" width="30%" alt="Files & Exceptions 2">
-  <img src="04-files-and-exceptions/image3.png" width="30%" alt="Files & Exceptions 3">
+  <img src="python-crash-course-lab/Photos/survey.png" width="30%" alt="Files & Exceptions 1">
+  <img src="python-crash-course-lab/Photos/language_survey.png" width="30%" alt="Files & Exceptions 2">
+  <img src="python-crash-course-lab/Photos/test_survey.png" width="30%" alt="Files & Exceptions 3">
 </p>
 
 ## 🛠 Инструменты разработки
 
-*   **Python 3.x** — основной язык программирования, используемый для написания всех скриптов, логики, обработки исключений и работы со структурами данных.
+*   **Python** — основной язык программирования, используемый для написания всех скриптов, логики, обработки исключений и работы со структурами данных.
 
 ## ✍️ Авторство и материалы
 
