@@ -6,7 +6,7 @@ class TestEmployee(unittest.TestCase):
 
     def setUp(self):
         """Create an employee instance for all test methods."""
-        self.my_employee = Employee('Иван', 'Петров', 50000)
+        self.my_employee = Employee('Ivan', 'Petrov', 50000)
 
     def test_give_default_raise(self):
         """Test that a default raise increases the salary by 5000."""
